@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contoh2/static/css/main.cde454ce.css",
+    "main.js": "/contoh2/static/js/main.787e62df.js",
+    "static/media/background.jpg": "/contoh2/static/media/background.eecce61848d69e41a60a.jpg",
+    "static/media/Logo2.png": "/contoh2/static/media/Logo2.a6464371d709876c4738.png",
+    "static/media/logo_baju.png": "/contoh2/static/media/logo_baju.837589fc920ce52984d9.png",
+    "static/media/logo_biasa.png": "/contoh2/static/media/logo_biasa.fbf2e19dabb001946675.png",
+    "index.html": "/contoh2/index.html",
+    "main.cde454ce.css.map": "/contoh2/static/css/main.cde454ce.css.map",
+    "main.787e62df.js.map": "/contoh2/static/js/main.787e62df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde454ce.css",
+    "static/js/main.787e62df.js"
+  ]
+}
